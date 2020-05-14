@@ -1,2 +1,2 @@
 # git-github
-Thid id created for tutorial purpose.
+Thid is created for tutorial purpose.
